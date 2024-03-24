@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="green.css"
-DOMAIN="theme-park.dev"
+DOMAIN="github.com/blaporte21"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
